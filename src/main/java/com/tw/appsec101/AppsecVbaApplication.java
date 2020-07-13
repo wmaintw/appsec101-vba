@@ -1,4 +1,4 @@
-package tw.appsecvba;
+package com.tw.appsec101;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,5 +9,4 @@ public class AppsecVbaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(AppsecVbaApplication.class, args);
 	}
-
 }
