@@ -8,7 +8,7 @@ plugins {
 
 group = 'tw'
 version = '0.0.1-SNAPSHOT'
-sourceCompatibility = '11'
+sourceCompatibility = '11' //可根据你的机器环境，调整为对应的JDK版本，例如”8“
 
 repositories {
 	mavenCentral()
